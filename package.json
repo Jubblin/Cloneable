@@ -91,7 +91,7 @@
     "moment": "^2.29.4",
     "node-dir": "^0.1.17",
     "node-html-parser": "^5.3.3",
-    "parse-url": "^6.0.5",
+    "parse-url": "^8.1.0",
     "postcss-loader": "^7.0.1",
     "react": "^18.2.0",
     "react-accessible-accordion": "^5.0.0",
